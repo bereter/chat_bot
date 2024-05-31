@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     # Дополнительные приложения
     'bot',
     'rest_framework',
-    'django-filter'
 ]
 
 MIDDLEWARE = [
