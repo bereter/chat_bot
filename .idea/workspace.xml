@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c717eaf3-0d57-4658-a079-74cce63ea4d1" name="Changes" comment="v1: Добавил README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c717eaf3-0d57-4658-a079-74cce63ea4d1" name="Changes" comment="v1: Прописал модели">
+      <change afterPath="$PROJECT_DIR$/translator_bot/bot/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/translator_bot/bot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator_bot/bot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +86,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -116,13 +123,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717158348203</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v1: Прописал модели">
+      <option name="closed" value="true" />
+      <created>1718153477534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718153477534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create repositories" />
     <MESSAGE value="v1: Добавлен проект, сделаны первичные настройки и добавлен файл с зависимостями requirements" />
     <MESSAGE value="v1: Добавил README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1: Добавил README.md" />
+    <MESSAGE value="v1: Прописал модели" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1: Прописал модели" />
   </component>
 </project>
