@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c717eaf3-0d57-4658-a079-74cce63ea4d1" name="Changes" comment="v1: Прописал модели">
-      <change afterPath="$PROJECT_DIR$/translator_bot/bot/serializers.py" afterDir="false" />
+    <list default="true" id="c717eaf3-0d57-4658-a079-74cce63ea4d1" name="Changes" comment="v1: Прописал serializers и views">
+      <change afterPath="$PROJECT_DIR$/translator_bot/bot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chat_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chat_bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator_bot/bot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator_bot/bot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator_bot/bot/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/translator_bot/bot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/bot/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator_bot/translator_bot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/translator_bot/translator_bot/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718153477534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v1: Прописал serializers и views">
+      <option name="closed" value="true" />
+      <created>1718539561031</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718539561032</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +152,7 @@
     <MESSAGE value="v1: Добавлен проект, сделаны первичные настройки и добавлен файл с зависимостями requirements" />
     <MESSAGE value="v1: Добавил README.md" />
     <MESSAGE value="v1: Прописал модели" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1: Прописал модели" />
+    <MESSAGE value="v1: Прописал serializers и views" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1: Прописал serializers и views" />
   </component>
 </project>
